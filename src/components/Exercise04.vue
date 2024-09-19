@@ -14,7 +14,7 @@ const active = ref(true);
 
 const pop = () => {
   active.value = !active.value;
-  console.log(active.value); // Log the value
+  console.log(active.value);
 };
 </script>
 

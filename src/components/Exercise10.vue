@@ -1,7 +1,7 @@
 <template>
   <div>
    
-    <!-- Phần tử input cho phép người dùng nhập -->
+   
     <input
       type="text"
       v-model="inputText"
